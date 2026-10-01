@@ -1,0 +1,10 @@
+{
+  "name": "Pam's English Lab PRO",
+  "short_name": "Pam English",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f7fb",
+  "theme_color": "#6c5ce7",
+  "description": "Personal English learning lab for vocabulary, pronunciation, reading, listening and speaking practice."
+}
